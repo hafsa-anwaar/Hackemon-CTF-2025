@@ -1,10 +1,13 @@
 Walkthrough of OSINT “Volume speaks Louder “ challenge
 
-Decrypt the text by rot 13 decoder
+Decrypt the text by rot 13 decoder   
+
+This is the decoded text, which is the website
+ISSN-L 1843-8148 ([Romanian Journal of Neurology](https://rjn.com.ro)
 
 then above it go the journal which is the first volume of year 2024
 
-below the same page there is cite written 
+at the page there is cite written 
 
 click on it
 
